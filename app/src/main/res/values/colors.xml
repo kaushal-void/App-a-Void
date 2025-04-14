@@ -1,0 +1,62 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+        <!-- ==== PRIMARY COLORS ==== -->
+        <!-- Neon Blue Color Scheme -->
+        <color name="neon_blue_light">#33E5FF</color> <!-- Lighter Neon Blue -->
+        <color name="neon_blue">#00BCD4</color>       <!-- Primary Neon Blue -->
+        <color name="neon_blue_dark">#008DA3</color>  <!-- Darker Neon Blue -->
+        <color name="primary_text">#388E3C</color>
+
+
+        <!-- Dark Navy Blue Color Scheme -->
+        <color name="navy_blue_light">#004F8B</color> <!-- Lighter Navy Blue -->
+        <color name="navy_blue">#001F3F</color>       <!-- Primary Dark Navy Blue -->
+        <color name="navy_blue_dark">#00102A</color>  <!-- Darker Navy Blue -->
+
+        <!-- Electric Cyan Color Scheme -->
+        <color name="electric_cyan_light">#5FFFE9</color> <!-- Lighter Electric Cyan -->
+        <color name="electric_cyan">#0AFFEF</color>       <!-- Primary Electric Cyan -->
+
+
+        <!-- ==== SECONDARY COLORS ==== -->
+        <!-- Lime Green Color Scheme -->
+        <color name="lime_green_light">#E4FB88</color> <!-- Lighter Lime Green -->
+        <color name="lime_green">#C7EA46</color>       <!-- Primary Lime Green -->
+        <color name="lime_green_dark">#8CBF1F</color>  <!-- Darker Lime Green -->
+
+        <!-- Orange Color Scheme -->
+        <color name="orange_light">#FFA24F</color> <!-- Lighter Orange -->
+        <color name="orange">#FF6F00</color>       <!-- Primary Orange -->
+        <color name="orange_dark">#C45B00</color>  <!-- Darker Orange -->
+
+        <!-- Bright Red Color Scheme (Optional) -->
+        <color name="bright_red_light">#FF616F</color> <!-- Lighter Bright Red -->
+        <color name="bright_red">#FF1744</color>       <!-- Primary Bright Red -->
+        <color name="bright_red_dark">#C51133</color>  <!-- Darker Bright Red -->
+
+        <!-- ==== BACKGROUND COLORS ==== -->
+        <color name="charcoal_black">#121212</color> <!-- Charcoal Black Background -->
+
+
+        <!-- ==== TEXT COLORS ==== -->
+        <color name="text_light_grey">#E0E0E0</color> <!-- Light Grey for Text -->
+        <color name="text_darker_grey">#B0B0B0</color> <!-- Darker Grey for Text -->
+
+        <!-- ==== GLOW COLORS ==== -->
+        <!-- Button Glows -->
+        <color name="button_glow_light">#A6E5FF</color> <!-- Light Glow for Buttons -->
+        <color name="button_glow_dark">#0060FF</color>  <!-- Dark Glow for Buttons -->
+
+
+
+        <!-- Space Theme Colors -->
+        <color name="cosmic_purple">#8A2BE2</color>
+        <color name="stellar_green">#7FFF00</color>
+        <color name="galactic_orange">#FFA500</color>
+        <color name="electric_blue">#00BFFF</color>
+        <color name="meteor_red">#FF4500</color>
+
+        <!-- ==== NEUTRAL COLORS ==== -->
+        <!-- Neutral Colors -->
+        <color name="white">#FFFFFF</color> <!-- White Color -->
+        <color name="light_grey">#D3D3D3</color> <!-- Light Grey for Backgrounds -->
+</resources>
