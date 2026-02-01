@@ -12,6 +12,6 @@ captures/
 *.apk
 *.aab
 
-# OS
+# OS junk
 .DS_Store
 Thumbs.db
