@@ -1,0 +1,17 @@
+# Android / IntelliJ
+*.iml
+.gradle/
+local.properties
+.idea/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Outputs
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db

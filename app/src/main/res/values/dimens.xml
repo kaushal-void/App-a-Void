@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding dimensions -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+    <!-- Margin dimensions -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <!-- Text size dimensions -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+
+    <!-- Common dimensions for layout elements -->
+    <dimen name="default_button_width">96dp</dimen>
+    <dimen name="default_button_height">48dp</dimen>
+
+    <!-- Custom element sizes -->
+    <dimen name="avatar_size">56dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+
+    <!-- Missing dimensions added -->
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+</resources>

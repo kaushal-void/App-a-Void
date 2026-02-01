@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_a_void">App-a-Void</string>
+    <string name="avatar_description">Avatar Placeholder</string>
+    <string name="rounded_button_text">Rounded Button</string>
+    <string name="start_button_text">Start</string>
+    <string name="stop_button_text">Stop</string>
+    <string name="app_name">App-a-Void</string>
+    <string name="sample_task">Sample Task</string>
+    <string name="menu_title">Features</string>
+    <string name="icon_description">Menu Icon</string>
+    <string name="time_warp_accessibility_description">
+        Time Warp Accessibility Service
+    </string>
+
+</resources>
