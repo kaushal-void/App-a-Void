@@ -21,3 +21,7 @@ build_log.txt
 # OS junk
 .DS_Store
 Thumbs.db
+
+.idea/
+*.logcat
+*.zip
