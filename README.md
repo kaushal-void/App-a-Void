@@ -5,8 +5,8 @@ App-a-Void is an Android productivity and screen-time control application built 
 ## Features
 - App usage tracking
 - Screen time statistics
-- Task and to-do management
-- Accessibility-based time control
+   Task and to-do management
+- Accessibility-based time control.
 
 ## Tech Stack
 - Kotlin
